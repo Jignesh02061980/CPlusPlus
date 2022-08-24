@@ -85,8 +85,9 @@ int main()
     Test* ptr = new Test(10);
     obj.change(ptr);
     obj.print();
-    cout << "13:18";
-    cout << "16:13";
+    cout << "13:18"; // c1a8e55 commit number
+    cout << "16:13"; //f892db4 commit number
+    cout << "16:15";
     return 0;
 /*
     char* ptr = "GeeksQuiz";
