@@ -86,6 +86,7 @@ int main()
     obj.change(ptr);
     obj.print();
     cout << "13:18";
+    cout << "16:13";
     return 0;
 /*
     char* ptr = "GeeksQuiz";
