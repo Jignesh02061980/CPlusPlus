@@ -85,13 +85,12 @@ int main()
     Test* ptr = new Test(10);
     obj.change(ptr);
     obj.print();
-<<<<<<< HEAD
+
     cout << "13:18"; // c1a8e55 commit number
     cout << "16:13"; //f892db4 commit number
     cout << "16:15";
-=======
     cout << "13:18";
->>>>>>> parent of f892db4... commiting for 16:14
+    cout << "19:41";
     return 0;
 /*
     char* ptr = "GeeksQuiz";
